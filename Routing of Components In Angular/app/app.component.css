@@ -1,0 +1,17 @@
+ul{
+    list-style-type: none;
+}
+ul li{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-decoration: none;
+    float: left;
+
+}
+.l{
+    margin-left: 42%;
+}
+.l2{
+    margin-left: 2%;
+}
+

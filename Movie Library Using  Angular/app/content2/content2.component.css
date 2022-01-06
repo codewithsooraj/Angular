@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.c1{
+    background-color: black;
+    width: 80%;
+    height:480px;
+    float: left;
+}
+.txttop{
+    color: rgb(131, 18, 55);
+    font-size: 16px;
+    font-family: 'Lexend Exa', sans-serif;
+    margin-top:2%;
+    margin-left:5%;
+}
+.bottomtxt{
+    color: white;
+    font-size: 14px;
+    font-family: 'Lexend Exa', sans-serif;
+    margin-top:0.5%;
+    margin-left:5.1%;
+}
+.pic1{
+    margin-top:2%;
+    width:200px;
+    height:270px;
+    margin-left:5%;
+}
+.intro1{
+    color: white;
+    font-size: 14px;
+    font-family: 'Lexend Exa', sans-serif;
+    margin-top:1%;
+    margin-left:9.5%;
+    float: left;
+}
+.intro2{
+    color: white;
+    font-size: 14px;
+    font-family: 'Lexend Exa', sans-serif;
+    margin-top:1%;
+    margin-left:14.8%;
+    float: left;
+}
+.intro3{
+    color: white;
+    font-size: 14px;
+    font-family: 'Lexend Exa', sans-serif;
+    margin-top:1%;
+    margin-left:15%;
+    float: left;
+}
+.intro4{
+    color: white;
+    font-size: 14px;
+    font-family: 'Lexend Exa', sans-serif;
+    margin-top:1%;
+    margin-left:12%;
+    float: left;
+}
+.btn{
+    color:white;
+    font-size: 11px;
+    font-family: 'Lexend Exa', sans-serif;
+    background-color:  rgb(131, 18, 55);
+    width:100px;
+    height:30px;
+    outline: none;
+    border-radius: 5px;
+    border:none;
+    margin-top:2%;
+    margin-left: 5%;
+}

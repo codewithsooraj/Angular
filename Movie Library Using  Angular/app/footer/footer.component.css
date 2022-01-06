@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+}
+.fdiv{
+    width:80%;
+    height:170px;
+    float:left;
+    background-color: rgb(54, 52, 52);
+    
+}
+.txt{
+    color: rgb(204, 197, 197);
+    font-size: 12px;
+    font-family: 'Lexend Exa', sans-serif;
+    margin-top: 3%;
+}
+.txt1{
+    margin-left: 29%;
+}
+.txt2{
+    margin-left: 4%;
+}
+.no1{
+    margin-left: 2%;
+    color: rgb(131, 18, 55);
+}
+.txt3{
+    margin-left: 2%;
+}
+.txt4{
+    margin-left: 4%;
+}
+.page{
+    font-size:17px;
+    margin-left: 45%;
+    margin-top: 1.5%;
+    color: white;
+}
+.line{
+    width:94%;
+    height:1.5px;
+    background-color: rgb(131, 18, 55);
+    margin-top: 2.5%;
+    margin-left: 3%;
+}
+.ftxt{
+    float: right;
+    color: white;
+    font-family: 'Lexend Exa', sans-serif;
+    font-size: 14px;
+    margin-top: 1.7%;
+    margin-right: 3%;
+
+}
+.name{
+    font-weight: 800;
+}

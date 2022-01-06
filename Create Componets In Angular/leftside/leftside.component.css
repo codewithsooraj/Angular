@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.leftdiv{
+background-color:darkcyan;
+width:20%;
+height: 615px;
+float: left;
+
+}
+.leftdiv ul{
+    list-style-type:none;
+    margin-left:39px;
+    margin-top:8%;
+}
+
+.leftdiv a{
+    text-decoration: none;  
+}
+
+.leftdiv li{
+    padding-top:5.5px;
+    text-align: center;
+    width:220px;
+    height:40px;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+}
+.leftdiv li:hover{
+    border: 1px solid black;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 20px;
+    transition: 400ms;
+}

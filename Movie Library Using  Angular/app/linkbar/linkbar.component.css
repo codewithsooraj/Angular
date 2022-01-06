@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.linkdiv{
+    width: 100%;
+    height:50px;
+    background:linear-gradient(to bottom,rgb(38, 38, 38)42%,rgb(0, 0, 0)60%);
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+.link1{
+
+    margin-top: 0.8%;
+    font-size: 20px;
+    float:left;
+    margin-left:58px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:azure;
+
+}
+.links{
+    margin-top: 0.8%;
+    font-size: 20px;
+    float:left;
+    margin-left:45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:azure;
+}
+.fa{
+    color: azure;
+    float: left;
+    margin-left: 3.5%;
+    margin-top: 1.2%;
+    transform: rotate(90deg);
+}

@@ -1,0 +1,1 @@
+Create 3 components (layout) and call all components together and display in single component

@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.maindiv{
+    width:80%;
+    background-color: cadetblue;
+    height: 615px;
+    float: left;
+    text-align: center;
+}
+.text{
+    margin-top: 23%;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
